@@ -1,0 +1,302 @@
+[
+    { 
+        "prompt" : "How can I open a savings account?",
+        "response" : "To open a savings account, please visit our nearest branch with your identification documents."
+    },
+    { 
+        "prompt" : "What are the interest rates on personal loans?",
+        "response" : "The interest rates on our personal loans vary based on your credit score and the loan amount. I can assist you in calculating an estimate."
+    },
+    { 
+        "prompt" : "I need help with a transaction issue.",
+        "response" : "Please provide me with your account details and a description of the issue so I can assist you further."
+    },
+    { 
+        "prompt" : "Can I apply for a credit card online?",
+        "response" : "Yes, you can apply for a credit card online through our website. Visit the credit card section and follow the application instructions."
+    },
+    { 
+        "prompt" : "How do I transfer money between accounts?",
+        "response" : "You can transfer money between your accounts through our mobile banking app or online banking portal. Simply select the transfer option and follow the prompts."
+    },
+    { 
+        "prompt" : "What should I do if my debit card is lost or stolen?",
+        "response" : "If your debit card is lost or stolen, please call our customer service hotline immediately to report it. We'll cancel the card and issue a replacement."
+    },
+    { 
+        "prompt" : "Are there any fees for using ATMs abroad?",
+        "response" : "Yes, there may be fees associated with using ATMs abroad. Please check our fee schedule or contact customer service for more information."
+    },
+    { 
+        "prompt" : "How can I update my contact information?",
+        "response" : "You can update your contact information through our online banking portal. Go to the profile settings section and update your details."
+    },
+    { 
+        "prompt" : "What are the requirements for applying for a mortgage?",
+        "response" : "To apply for a mortgage, you'll need to provide proof of income, identification, and details about the property you intend to purchase."
+    },
+    { 
+        "prompt" : "How do I set up direct deposit for my salary?",
+        "response" : "Setting up direct deposit is easy! You'll need to provide your employer with our bank's routing number and your account number. They'll handle the rest."
+    },
+    { 
+        "prompt" : "What are the hours of operation for customer service?",
+        "response" : "Our customer service representatives are available from Monday to Friday, 9 AM to 5 PM. You can also reach us via our mobile app for assistance outside of these hours."
+    },
+    { 
+        "prompt" : "How can I check my account balance?",
+        "response" : "You can check your account balance through our mobile app, online banking portal, or by visiting an ATM."
+    },
+    { 
+        "prompt" : "What are the fees for overdrafts?",
+        "response" : "Overdraft fees vary based on your account type and the amount overdrawn. Please refer to our fee schedule or contact customer service for details."
+    },
+    { 
+        "prompt" : "Can I apply for a loan with a co-signer?",
+        "response" : "Yes, you can apply for a loan with a co-signer. Both parties will need to provide necessary documentation and undergo credit checks."
+    },
+    { 
+        "prompt" : "How do I dispute a transaction on my account?",
+        "response" : "To dispute a transaction, please fill out our online dispute form or visit a branch with supporting documentation. We'll investigate and provide updates."
+    },
+    { 
+        "prompt" : "Are there any discounts for students on banking services?",
+        "response" : "Yes, we offer special discounts and benefits for students. Please inquire at your nearest branch or check our website for more information."
+    },
+    { 
+        "prompt" : "What are the steps to close my account?",
+        "response" : "To close your account, visit a branch in person with valid identification and fill out a closure request form. Any remaining funds will be transferred to you."
+    },
+    { 
+        "prompt" : "How long does it take to process a wire transfer?",
+        "response" : "Wire transfer processing times vary based on the destination and currency. Typically, transfers within the country are processed within the same day."
+    },
+    { 
+        "prompt" : "Can I schedule automatic bill payments through my account?",
+        "response" : "Yes, you can set up automatic bill payments through our online banking portal. Simply add your payees and schedule recurring payments as needed."
+    },
+    { 
+        "prompt" : "What should I do if I forget my online banking password?",
+        "response" : "You can reset your online banking password using our password recovery option on the login page. Follow the prompts to regain access to your account."
+    },
+    { 
+        "prompt" : "How do I apply for a business loan?",
+        "response" : "To apply for a business loan, please prepare your business plan, financial statements, and other required documents. Schedule an appointment with a business banker for assistance."
+    },
+    { 
+        "prompt" : "What are the benefits of a savings account over a checking account?",
+        "response" : "A savings account typically earns interest on your balance, whereas a checking account is more suited for everyday transactions. It's best to maintain Both for different financial needs."
+    },
+    { 
+        "prompt" : "Can I deposit a check using my mobile phone?",
+        "response" : "Yes, you can deposit checks remotely using our mobile banking app. Follow the instructions for mobile check deposit and ensure proper endorsement."
+    },
+    { 
+        "prompt" : "How can I order checks for my checking account?",
+        "response" : "You can order checks online through our banking website or by visiting a branch. Make sure to have your account details handy when placing the order."
+    },
+    { 
+        "prompt" : "What are the requirements for opening a business account?",
+        "response" : "To open a business account, you'll need to provide business registration documents, identification for authorized signers, and proof of address for the business."
+    },
+    { 
+        "prompt" : "Is there a limit on ATM withdrawals per day?",
+        "response" : "ATM withdrawal limits vary by account type and location. Check your account terms or contact customer service for specific limits applicable to your account."
+    },
+    { 
+        "prompt" : "How do I apply for a credit card limit increase?",
+        "response" : "You can request a credit limit increase through our online banking portal or by contacting customer service. Approval is based on your credit history and income."
+    },
+    { 
+        "prompt" : "What is the process for applying for a home equity line of credit (HELOC)?",
+        "response" : "To apply for a HELOC, you'll need to provide property details, income verification, and undergo an appraisal. Our mortgage specialists can guide you through the process."
+    },
+    { 
+        "prompt" : "How secure is mobile banking?",
+        "response" : "We use advanced encryption and security protocols to protect your mobile banking transactions. It's important to use secure passwords and keep your device updated."
+    },
+    { 
+        "prompt" : "Can I set up account alerts for low balances?",
+        "response" : "Yes, you can set up account alerts for low balances, transaction notifications, and more through our online banking settings. Stay informed about your account activity."
+    },
+    { 
+        "prompt" : "What are the benefits of using a financial advisor?",
+        "response" : "A financial advisor can help you plan for retirement, manage investments, and optimize your financial portfolio. Schedule a consultation to discuss your financial goals."
+    },
+    { 
+        "prompt" : "How do I apply for a mortgage pre-approval?",
+        "response" : "To get pre-approved for a mortgage, complete our online application or schedule an appointment with a mortgage advisor. Pre-approval helps streamline your home buying process."
+    },
+    { 
+        "prompt" : "Are there fees for transferring money between accounts at the same bank?",
+        "response" : "Internal transfers between your accounts at the same bank are usually free of charge. Check your account terms or contact customer service for specific details."
+    },
+    { 
+        "prompt" : "How do I update my direct deposit information?",
+        "response" : "Update your direct deposit information by providing your employer with our bank's routing number and your account details. They'll handle the rest to ensure seamless deposits."
+    },
+    { 
+        "prompt" : "What is the process for ordering a replacement debit card?",
+        "response" : "To order a replacement debit card, contact our customer service hotline or visit a branch. We'll cancel your old card and issue a new one for you."
+    },
+    { 
+        "prompt" : "Can I apply for a personal loan online?",
+        "response" : "Yes, you can apply for a personal loan online through our secure application portal. Complete the required information and submit your application for review."
+    },
+    { 
+        "prompt" : "How do I set up a savings goal tracker?",
+        "response" : "Use our online banking platform to set up a savings goal tracker. Monitor your progress and adjust savings strategies to achieve your financial goals."
+    },
+    { 
+        "prompt" : "What steps should I take to protect my account from fraud?",
+        "response" : "Protect your account by using strong passwords, monitoring account activity regularly, and reporting any suspicious transactions to our fraud department immediately."
+    },
+    { 
+        "prompt" : "How do I order foreign currency for travel?",
+        "response" : "Order foreign currency online through our banking website or visit a branch. We offer competitive exchange rates and convenient options for your travel needs."
+    },
+    { 
+        "prompt" : "Can I transfer money internationally through my account?",
+        "response" : "Yes, you can initiate international transfers through our international wire transfer services. Ensure you have the recipient's details and follow the transfer instructions carefully."
+    },
+    { 
+        "prompt" : "What are the benefits of opening a certificate of deposit (CD)?",
+        "response" : "A CD offers a fixed interest rate and guaranteed returns over a specific term. It's a low-risk investment option suitable for savings with predictable earnings."
+    },
+    { 
+        "prompt" : "How do I apply for a personal line of credit?",
+        "response" : "To apply for a personal line of credit, complete our online application or visit a branch. Our financial advisors can help determine the best options for your needs."
+    },
+    { 
+        "prompt" : "What is the process for ordering a stop payment on a check?",
+        "response" : "To request a stop payment on a check, contact our customer service team with the check details. Fees may apply, and timing is crucial to prevent the check from being cashed."
+    },
+    { 
+        "prompt" : "How do I opt out of overdraft protection?",
+        "response" : "You can opt out of overdraft protection by contacting customer service or visiting a branch. Consider the implications and alternative options for managing your account balance."
+    },
+    { 
+        "prompt" : "What steps should I take if my account is compromised?",
+        "response" : "If you suspect your account is compromised, immediately change your password and contact our fraud department. We'll investigate and take necessary actions to secure your account."
+    },
+    { 
+        "prompt" : "Can I open a joint account with another person?",
+        "response" : "Yes, you can open a joint account with another individual. Both parties must provide identification and agree on account terms for joint ownership."
+    },
+    { 
+        "prompt" : "How do I apply for a home equity loan?",
+        "response" : "To apply for a home equity loan, gather property details, income documentation, and complete our online application or visit a branch for assistance."
+    },
+    { 
+        "prompt" : "What are the benefits of using mobile check deposit?",
+        "response" : "Mobile check deposit allows you to deposit checks remotely using your smartphone camera. It's convenient and saves you a trip to the bank."
+    },
+    { 
+        "prompt" : "What is the minimum balance requirement for a savings account?",
+        "response" : "Minimum balance requirements vary by account type. Check our account terms or visit a branch for specific details applicable to your savings account."
+    },
+    { 
+        "prompt" : "How do I apply for a credit card balance transfer?",
+        "response" : "You can initiate a credit card balance transfer through our online banking portal or by contacting customer service. Transfer balances to consolidate debt or lower interest rates."
+    },
+    { 
+        "prompt" : "Are there discounts for seniors on banking fees?",
+        "response" : "Yes, we offer special discounts and benefits for seniors. Please inquire at your local branch or check our website for eligibility requirements and details."
+    },
+    { 
+        "prompt" : "How do I access my account statements online?",
+        "response" : "Log in to our online banking portal to access and download your account statements. Choose the statement period and format that suits your needs."
+    },
+    { 
+        "prompt" : "Can I add a beneficiary to my account online?",
+        "response" : "Yes, you can add a beneficiary to your account through our online banking platform. Ensure you have their details and follow the beneficiary addition process."
+    },
+    { 
+        "prompt" : "How do I apply for a student checking account?",
+        "response" : "To apply for a student checking account, provide proof of student status and identification. Enjoy benefits tailored to students, including fee waivers and rewards."
+    },
+    { 
+        "prompt" : "What should I do if my credit card is lost or stolen?",
+        "response" : "Report a lost or stolen credit card immediately by contacting our customer service hotline. We'll cancel the card and issue a replacement for you."
+    },
+    { 
+        "prompt" : "How can I change my PIN for my debit card?",
+        "response" : "Change your debit card PIN at any of our ATMs or visit a branch for assistance. Ensure your new PIN is memorable and secure."
+    },
+    { 
+        "prompt" : "Can I set up recurring payments for bills through my account?",
+        "response" : "Yes, set up recurring bill payments through our online banking platform. Add payees and schedule payments to avoid late fees and manage expenses efficiently."
+    },
+    { 
+        "prompt" : "How do I update my email address associated with my account?",
+        "response" : "Update your email address by logging into our online banking portal and navigating to the profile settings section. Update contact information and save changes."
+    },
+    { 
+        "prompt" : "What are the benefits of using a debit card over cash?",
+        "response" : "A debit card offers convenience, security, and easier tracking of expenses compared to cash. Use it for everyday purchases and ATM withdrawals."
+    },
+    { 
+        "prompt" : "How do I apply for a new credit card online?",
+        "response" : "Apply for a new credit card through our secure online application portal. Compare card options, rewards, and terms to choose the best fit for your financial needs."
+    },
+    { 
+        "prompt" : "What are the eligibility criteria for a mortgage refinance?",
+        "response" : "Mortgage refinance eligibility criteria include credit score, income verification, and property appraisal. Contact our mortgage specialists to explore your options."
+    },
+    { 
+        "prompt" : "How do I update my mailing address associated with my account?",
+        "response" : "Update your mailing address by logging into our online banking portal and accessing the profile settings section. Verify and save changes to ensure accurate communication."
+    },
+    { 
+        "prompt" : "Can I set up account alerts for specific transaction types?",
+        "response" : "Yes, customize account alerts for specific transaction types such as withdrawals, deposits, or large purchases through our online banking settings."
+    },
+    { 
+        "prompt" : "How do I apply for a personal savings account?",
+        "response" : "Apply for a personal savings account online through our website or visit a branch to open an account. Start saving for your financial goals with competitive interest rates."
+    },
+    { 
+        "prompt" : "What are the benefits of using online bill pay services?",
+        "response" : "Online bill pay services offer convenience, security, and time savings by allowing you to schedule and manage bill payments from one centralized platform."
+    },
+    { 
+        "prompt" : "How do I apply for a business line of credit?",
+        "response" : "To apply for a business line of credit, gather business financials and complete our online application or visit a branch to discuss options with a business banker."
+    },
+    { 
+        "prompt" : "Can I order checks with customized designs for personal accounts?",
+        "response" : "Yes, you can order checks with customized designs through our banking website or by visiting a branch. Choose from a variety of design options to personalize your checks."
+    },
+    { 
+        "prompt" : "How do I apply for a car loan?",
+        "response" : "To apply for a car loan, provide vehicle details, income verification, and complete our online application or visit a branch for assistance with financing options."
+    },
+    { 
+        "prompt" : "What are the benefits of using mobile banking apps?",
+        "response" : "Mobile banking apps offer access to account information, transaction history, and convenient banking services from your smartphone. Download our app for on-the-go banking."
+    },
+    { 
+        "prompt" : "How do I apply for a certificate of deposit (CD)?",
+        "response" : "Apply for a certificate of deposit (CD) online through our banking website or visit a branch to lock in a fixed interest rate and start saving with guaranteed returns."
+    },
+    { 
+        "prompt" : "How do I apply for a business credit card?",
+        "response" : "To apply for a business credit card, provide business details, income verification, and complete our online application or schedule an appointment with a business banker."
+    },
+    { 
+        "prompt" : "What are the benefits of using a financial planner?",
+        "response" : "A financial planner can help you create a personalized financial plan, manage investments, and achieve your long-term financial goals. Schedule a consultation to get started."
+    },
+    { 
+        "prompt" : "How do I apply for a personal line of credit online?",
+        "response" : "Apply for a personal line of credit online through our secure application portal. Review credit options, terms, and eligibility requirements for flexible borrowing."
+    },
+    { 
+        "prompt" : "Can I set up account alerts for suspicious activity?",
+        "response" : "Yes, set up account alerts for suspicious activity, such as unusual transactions or login attempts, through our online banking settings to monitor and protect your account."
+    },
+    { 
+        "prompt" : "How do I order foreign currency for an upcoming trip?",
+        "response" : "Order foreign currency online through our banking website or visit a branch to exchange currency with competitive rates and convenient options for your travel needs."
+    }
+]
