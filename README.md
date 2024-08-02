@@ -58,8 +58,6 @@ app.py: Flask application with endpoints for greetings and chat.
 
 fine_tune_model.py: Script for fine-tuning the GPT-2 model.
 
-templates/: Contains HTML templates.
-
-static/: Contains CSS and JavaScript files.
+static/: Contains the HTML, CSS and JavaScript file.
 
 data/: Contains dataset files (e.g., banking_data.json).
