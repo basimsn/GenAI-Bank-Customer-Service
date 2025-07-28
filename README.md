@@ -60,4 +60,4 @@ fine_tune_model.py: Script for fine-tuning the GPT-2 model.
 
 static/: Contains the HTML, CSS and JavaScript file.
 
-data/: Contains dataset files (e.g., banking_data.json).
+data/: Contains dataset files (e.g., banking_data.json)
